@@ -1,0 +1,4 @@
+engine-strict=true
+always-auth=true
+//npm.greensock.com/:_authToken=${GREENSOCK_TOKEN}
+@gsap:registry=https://npm.greensock.com
